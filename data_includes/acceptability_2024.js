@@ -33,7 +33,7 @@ var items = [ ["sep", "Separator", { }],
 
 	      ["practiceover", "Message", {continueMessage: "Klikněte zde pro pokračování experimentu", html: ["div", ["p", "Zde končí přípravná část experimentu. Klikněte níže pro vstup do experimentu."]]}],
 
-[["first-item1-perf", 1], aj, {s: {html: "<p>Kontext: Petr rád chodí na ryby. Během minulého týdne si výsledky své oblíbené aktivity zaznamenával do seznamu. Rozhodněte jak moc, na škále od 1 do 7, věta přiložená k seznamu významově odpovídá tomu, co Petr do seznamu zaznamenal. </p><p> <table><tr><th>Den</th><th>Ryba</th></tr><tr><td>Pondělí</td><td>Amur</td></tr><tr><td>Úterý</td><td>Pstruh</td></tr><tr><td>Středa</td><td>Štika</td></tr><tr><td>Čtvrtek</td><td>Amur</td></tr><tr><td>Pátek</td><td>Candát</td></tr><tr><td>Sobota</td><td>Okoun</td></tr><tr><td>Neděle</td><td>Cejn</td></tr></table> </p><p>Věta: <b>Petr každý den chytnul jednu rybu.  </b></p>"}}],
+[["first-item1-perf", 1], aj, {s: {html: "<p>Kontext: Petr rád chodí na ryby. Během minulého týdne si výsledky své oblíbené aktivity zaznamenával do seznamu. Rozhodněte jak moc, na škále od 1 do 7, věta přiložená k seznamu významově odpovídá tomu, co Petr do seznamu zaznamenal. </p><center> <p> <table><tr><th>Den</th><th>Ryba</th></tr><tr><td>Pondělí</td><td>Amur</td></tr><tr><td>Úterý</td><td>Pstruh</td></tr><tr><td>Středa</td><td>Štika</td></tr><tr><td>Čtvrtek</td><td>Amur</td></tr><tr><td>Pátek</td><td>Candát</td></tr><tr><td>Sobota</td><td>Okoun</td></tr><tr><td>Neděle</td><td>Cejn</td></tr></table> </p><p>Věta: <b>Petr každý den chytnul jednu rybu.  </b></center></p>"}}],
 
 
 ["firstfiller1", aj, {s: "Já, starý sadař nejsem přišel do lesa celé roky." }],
